@@ -1,5 +1,5 @@
 def considérer_phrase(phrase):
-    longeur_phrase:0
+    longeur_phrase=0
     nombre_mots=0
     nombre_voyelles=0
 
